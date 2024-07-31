@@ -284,6 +284,7 @@
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/bin/Debug/net8.0/refs/System.Text.Encoding.dll
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/bin/Debug/net8.0/refs/System.Text.Encoding.Extensions.dll
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/bin/Debug/net8.0/refs/System.Text.Encodings.Web.dll
+/Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/bin/Debug/net8.0/refs/System.Text.Json.dll
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/bin/Debug/net8.0/refs/System.Text.RegularExpressions.dll
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/bin/Debug/net8.0/refs/System.Threading.Channels.dll
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/bin/Debug/net8.0/refs/System.Threading.dll
@@ -331,7 +332,6 @@
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/bin/Debug/net8.0/System.Text.Json.dll
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/bin/Debug/net8.0/xunit.abstractions.dll
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/bin/Debug/net8.0/xunit.assert.dll
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/bin/Debug/net8.0/xunit.core.dll
@@ -409,7 +409,8 @@
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/obj/Debug/net8.0/SimpleApi.Tests.AssemblyInfoInputs.cache
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/obj/Debug/net8.0/SimpleApi.Tests.AssemblyInfo.cs
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/obj/Debug/net8.0/SimpleApi.Tests.csproj.CoreCompileInputs.cache
-/Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/obj/Debug/net8.0/SimpleApi.Tests.csproj.CopyComplete
+/Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/obj/Debug/net8.0/SimpleApi.Tests.sourcelink.json
+/Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/obj/Debug/net8.0/SimpleAp.E5A21A62.Up2Date
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/obj/Debug/net8.0/SimpleApi.Tests.dll
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/obj/Debug/net8.0/refint/SimpleApi.Tests.dll
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi.Tests/obj/Debug/net8.0/SimpleApi.Tests.pdb

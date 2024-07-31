@@ -17,6 +17,7 @@
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi/obj/Debug/net8.0/SimpleApi.csproj.CoreCompileInputs.cache
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi/obj/Debug/net8.0/SimpleApi.MvcApplicationPartsAssemblyInfo.cs
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi/obj/Debug/net8.0/SimpleApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi/obj/Debug/net8.0/SimpleApi.sourcelink.json
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi/obj/Debug/net8.0/staticwebassets.build.json
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi/obj/Debug/net8.0/staticwebassets.development.json
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi/obj/Debug/net8.0/staticwebassets/msbuild.SimpleApi.Microsoft.AspNetCore.StaticWebAssets.props
@@ -25,7 +26,7 @@
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SimpleApi.props
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi/obj/Debug/net8.0/staticwebassets.pack.json
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi/obj/Debug/net8.0/scopedcss/bundle/SimpleApi.styles.css
-/Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi/obj/Debug/net8.0/SimpleApi.csproj.CopyComplete
+/Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi/obj/Debug/net8.0/SimpleApi.csproj.Up2Date
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi/obj/Debug/net8.0/SimpleApi.dll
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi/obj/Debug/net8.0/refint/SimpleApi.dll
 /Users/Applepie/environment/C#_projects/Tuesday/SimpleApiProject/SimpleApi/obj/Debug/net8.0/SimpleApi.pdb
